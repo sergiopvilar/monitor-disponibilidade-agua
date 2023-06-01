@@ -11,4 +11,6 @@
 - 2x Válvula Solenóide 3/4 220V
 - Mangueiras e conexões hidráulicas
 
+## Esquema Elétrico
+
 ![Esquema](https://i.imgur.com/AXwC2Vh.png)
