@@ -14,3 +14,7 @@
 ## Esquema Elétrico
 
 ![Esquema](https://i.imgur.com/AXwC2Vh.png)
+
+## Aplicativo
+
+![App](https://i.imgur.com/bmP6uI0.jpeg)
