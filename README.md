@@ -11,4 +11,6 @@
 - 2x Válvula Solenóide 3/4 220V
 - Mangueiras e conexões hidráulicas
 
+![Esquema](https://i.imgur.com/AXwC2Vh.png)
+
 ![TTGO T-Call ESP32 SIM800L](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800/raw/master/image/Product.jpg)
